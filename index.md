@@ -23,8 +23,6 @@ Fun fact, CREST team will never beg you for donations in order to continue worki
 
 ## Special Thanks
 
-- **JopeBot Development Team**: for making an app so popular yet so unusable for some people that someone had to step up to the plate.
-
 - **[ZantorGaming](https://twitch.tv/zantorgaming)**: For being the longest and most active user, providing feedback, suggestions and bug reports.
 
 - **[Cloudy95](https://twitch.tv/cloudy95)**: For having such bad internet that I had to do something about it. Very early adopter.
