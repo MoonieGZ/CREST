@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome to CREST
 
-You can use the [editor on GitHub](https://github.com/LeafyDev/CREST/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If you're wondering how you got here: I don't know.
+However, if you were looking for info on [TheOtherLeaf](https://twitch.tv/TheOtherLeaf)'s request bot project, you're in the right place!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is CREST
 
-### Markdown
+**C**lean **RE**quest **S**ystem for **T**witch
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Originally designed as an alternative to JopeBot as a couple friends were having issues with the amount of network traffic that it used. JopeBot has since been discontinued, and [Acai](https://twitch.tv/acai) picking up the "less clean" RequestBotThing project has motivated me to make CREST, a much more "almost" professional production app.
 
-```markdown
-Syntax highlighted code block
+## Guides
 
-# Header 1
-## Header 2
-### Header 3
+- Getting Started
 
-- Bulleted
-- List
+- Request Modes
 
-1. Numbered
-2. List
+- Smart Randomizer
 
-**Bold** and _Italic_ and `Code` text
+- Priority Requests
 
-[Link](url) and ![Image](src)
-```
+## Support or Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeafyDev/CREST/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with CREST? Check out our [Discord](https://discord.gg/sTJqvyq) or [Twitter](https://twitter.com/underscoreLeaf) and we’ll help you sort it out.
