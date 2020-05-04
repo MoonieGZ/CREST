@@ -11,15 +11,16 @@ Originally designed as an alternative to JopeBot as a couple friends were having
 
 Fun fact, CREST team will never beg you for donations in order to continue working. :)
 
-## Guides
+## Download
 
-- [Getting Started](pages/getting-started.md)
+You can find the download by clicking [here](https://cloud.whaskell.pw/CREST/Releases/Setup.exe).
+Be warned that due to the auto-update method and nature of downloading and copying itself, certain antivirus software may trigger a warning or delete it. This is only linked to auto-updating and cannot be solved without spending a lot of money that I don't have on a code signing certificate, even then that's not sure if it'll solve it.
 
-- [Request Modes](pages/request-modes.md)
+## Links
 
-- [Smart Randomizer](pages/smart-randomizer.md)
+- [Changelog](pages/changelog.md)
 
-- [Priority Requests](pages/priority-requests.md)
+- [Guides and Tutorials](pages/guides.md)
 
 ## Special Thanks
 
