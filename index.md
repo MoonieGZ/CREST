@@ -36,4 +36,11 @@ Be warned that due to the auto-update method and nature of downloading and copyi
 
 Having trouble with CREST? Check out our [Discord](https://discord.gg/sTJqvyq) or [Twitter](https://twitter.com/underscoreLeaf) and we’ll help you sort it out.
 
-Like CREST? Consider sharing to your friends or [tipping](https://paypal.me/LeafyLeaf) us. 😃
+Like CREST? Consider [sharing to your friends](https://twitter.com/intent/tweet?text=Do%2520you%2520play%2520rhythm%2520games%2520on%2520Twitch%3F%2520Check%2520out%2520this%2520request%2520bot%2520by%2520%40underscoreLeaf%2520%3A%2520https%3A%2F%2Fcrest.whaskell.pw) or [tipping](https://paypal.me/LeafyLeaf) us. 😃
+
+### Financial Supporters
+
+While the service is maintained entirely for free, be it the web hosting, or library usage, we here at the CREST team fuel on G-Fuel (discount code acai), and we have a profound use of JetBrains tools, which require a monthly license.
+Any help is appreciated and donator specific perks will be enabled in the app very soon.
+
+- [Fuzkeren](https://twitch.tv/Fuzkeren)
