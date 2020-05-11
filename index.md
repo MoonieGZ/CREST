@@ -22,11 +22,11 @@ Be warned that due to the auto-update method and nature of downloading and copyi
 
 - [Getting Started](pages/getting-started.md)
 
+- [Menus and Features](pages/menus.md)
+
 - [Chat Commands](pages/chat-commands.md)
 
 - [Request Modes](pages/request-modes.md)
-
-- [Smart Randomizer](pages/smart-randomizer.md)
 
 - [Priority Requests](pages/priority-requests.md)
 
@@ -37,6 +37,8 @@ Be warned that due to the auto-update method and nature of downloading and copyi
 - **[Cloudy95](https://twitch.tv/cloudy95)**: For having such bad internet that I had to do something about it. Very early adopter.
 
 - **[Acai](https://twitch.tv/acai)**: Being a great inspiration as a CH player, picking up the bot and showing it off to his amazing viewerbase, shouting me out and deliberately looking out for my messages, it means a lot.
+
+- **[SDG_Shawn](https://twitch.tv/sdg_shawn)**: Being a strong believer, helping writing guides, and always pushing me to make better stuff.
 
 - **My doctor**: for providing me with meds that enable me to be a functional human rather than a depressed waste of oxygen. 😃
 

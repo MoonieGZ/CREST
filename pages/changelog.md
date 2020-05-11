@@ -2,6 +2,18 @@
 
 [Back to home](../index.md)
 
+## Version 2.4.4
+
+- Changed site link in !crest command.
+
+## Version 2.4.3
+
+- Fixed an issue that would allow anyone to add/delete ignores, rather than just moderators.
+
+## Version 2.4.2
+
+- Fixed an issue that would cause requesters to be picked twice via priority requests.
+
 ## Version 2.4.1
 
 - Fixed an issue that would cause the request list to crash if trying to override a bias setting.
