@@ -20,7 +20,15 @@ Be warned that due to the auto-update method and nature of downloading and copyi
 
 - [Changelog](pages/changelog.md)
 
-- [Guides and Tutorials](pages/guides.md)
+- [Getting Started](pages/getting-started.md)
+
+- [Chat Commands](pages/chat-commands.md)
+
+- [Request Modes](pages/request-modes.md)
+
+- [Smart Randomizer](pages/smart-randomizer.md)
+
+- [Priority Requests](pages/priority-requests.md)
 
 ## Special Thanks
 
