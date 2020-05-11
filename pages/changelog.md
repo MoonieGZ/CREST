@@ -79,7 +79,7 @@
 - Added everything up to bias settings.
 - List command disabled.
 
-## Version 2.1.1 
+## Version 2.1.1
 
 - Auto-updates.
 - Split confusing settings into their own forms, much cleaner.
