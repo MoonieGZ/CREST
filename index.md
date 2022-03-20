@@ -1,7 +1,7 @@
 # Welcome to CREST
 
 If you're wondering how you got here: I don't know.
-However, if you were looking for info on [TheOtherLeaf](https://twitch.tv/TheOtherLeaf)'s request bot project, you're in the right place!
+However, if you were looking for info on [axsLeaf](https://twitter.com/axsLeaf)'s request bot project, you're in the right place!
 
 ## What is CREST
 
@@ -44,9 +44,9 @@ Be warned that due to the auto-update method and nature of downloading and copyi
 
 ## Support or Contact
 
-Having trouble with CREST? Check out our [Discord](https://discord.gg/sTJqvyq) or [Twitter](https://twitter.com/underscoreLeaf) and we’ll help you sort it out.
+Having trouble with CREST? Check out our [Discord](https://discord.flowerpat.ch) or [Twitter](https://twitter.com/axsLeaf) and we’ll help you sort it out.
 
-Like CREST? Consider [sharing to your friends](https://twitter.com/intent/tweet?text=Do%2520you%2520play%2520rhythm%2520games%2520on%2520Twitch%3F%2520Check%2520out%2520this%2520request%2520bot%2520by%2520%40underscoreLeaf%2520%3A%2520https%3A%2F%2Fcrest.whaskell.pw) or [tipping](https://paypal.me/LeafyLeaf) us. 😃
+Like CREST? Consider [sharing to your friends](https://twitter.com/intent/tweet?text=Do%2520you%2520play%2520rhythm%2520games%2520on%2520Twitch%3F%2520Check%2520out%2520this%2520request%2520bot%2520by%2520%40axsLeaf%2520%3A%2520https%3A%2F%2Fcrest.whaskell.pw) or [tipping](https://paypal.me/LeafyLeaf) us. 😃
 
 ### Financial Supporters
 
